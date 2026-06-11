@@ -15,6 +15,3 @@ def es_par(numero):
         raise TypeError("El valor debe ser un número entero")
 
     return numero % 2 == 0
-
-
-
