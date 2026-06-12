@@ -3,7 +3,7 @@ from es_par import es_par
 
 
 def test_numero_par():
-    assert es_par(8) is False
+    assert es_par(8) is True
 
 
 def test_numero_impar():
